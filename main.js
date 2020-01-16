@@ -1,7 +1,7 @@
 // Find the tag with the Id groceries
 const groceriesArticle = document.querySelector("#groceries");
 // classList grabs the class you define within the parantheses
-groceriesArticle.classList.add("red-text");
+groceriesArticle.classList.add("greenyellow-text");
 const groceries_header = document.querySelector(".groceries_header");
 groceries_header.classList.remove("groceries_header");
 
