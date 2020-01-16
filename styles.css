@@ -1,0 +1,9 @@
+.groceries_header {
+    font-size: 5em;
+}
+#grocery-list {
+    list-style-type: none;
+}
+.red-text {
+    color:red;
+}
